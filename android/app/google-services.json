@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237893855331",
+    "firebase_url": "https://grabit-1107.firebaseio.com",
+    "project_id": "grabit-1107",
+    "storage_bucket": "grabit-1107.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237893855331:android:8f5d2a98f6dea2ecb03056",
+        "android_client_info": {
+          "package_name": "com.rishabh.grabit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237893855331-uo0a1g6n4g0ndee5shv0e0ftcpp8fbj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jL2uxc0lcSgwf7H5HSg--zHl1Vftqcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237893855331-uo0a1g6n4g0ndee5shv0e0ftcpp8fbj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
